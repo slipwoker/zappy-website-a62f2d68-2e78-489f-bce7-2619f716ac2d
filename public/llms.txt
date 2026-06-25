@@ -7,81 +7,81 @@
 ## Pages
 
 ### בית
-https://-a62f2d68.zappy5.app
+https://example.com
 התמכר לעולם המופלא של גו, משחק הלוח העתיק שמציע אינסוף אפשרויות אסטרטגיות. הצטרף אלינו למסע בין שחור ללבן, גלה טיפים מנצחים והפוך לאמן אסטרטגיה עוד היום.
 
 ### ללמוד
-https://-a62f2d68.zappy5.app/learn
+https://example.com/learn
 מוכן לקחת את המשחק לשלב הבא? למד אסטרטגיות גו מעמיקות, תרגל טכניקות של אלופים ופתח מיומנויות שיהפכו כל מהלך שלך לניצחון. התחל ללמוד עכשיו!
 
 ### מורשת
-https://-a62f2d68.zappy5.app/heritage
+https://example.com/heritage
 צלול לתוך המורשת המרתקת של גו, ממזרח אסיה העתיקה ועד ימינו. גלה סיפורים, פילוסופיה ואמנות שמאחורי האבנים השחורות והלבנות. חקור את הסיפור המלא עכשיו.
 
 ### צור קשר
-https://-a62f2d68.zappy5.app/contact
+https://example.com/contact
 יש לך שאלה על גו או רוצה להצטרף למפגשי משחק? אנחנו כאן בשבילך! מלא את הפרטים ונחזור אליך במהירות עם כל מה שצריך כדי להתחיל לשחק. צור קשר עכשיו!
 
 ### Cart
-https://-a62f2d68.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://-a62f2d68.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://-a62f2d68.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://-a62f2d68.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://-a62f2d68.zappy5.app/order-success
+https://example.com/order-success
 תודה שנרשמת לקורס
 
 ### תודה על פנייתך | שחור ולבן
-https://-a62f2d68.zappy5.app/thank-you
+https://example.com/thank-you
 שחור ולבן - תודה על פנייתך | שחור ולבן
 
 ### Courses
-https://-a62f2d68.zappy5.app/courses
+https://example.com/courses
 Browse all available courses.
 
 ### Course Category
-https://-a62f2d68.zappy5.app/category/:slug
+https://example.com/category/:slug
 Browse courses in this category.
 
 ### Course Detail
-https://-a62f2d68.zappy5.app/courses/:slug
+https://example.com/courses/:slug
 Course details and curriculum.
 
 ### Lesson
-https://-a62f2d68.zappy5.app/lesson/:lessonId
+https://example.com/lesson/:lessonId
 Lesson player.
 
 ### My Learning
-https://-a62f2d68.zappy5.app/my-learning
+https://example.com/my-learning
 Your enrolled courses and progress.
 
 ### Certificate
-https://-a62f2d68.zappy5.app/certificate/:code
+https://example.com/certificate/:code
 Verify a course completion certificate.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-a62f2d68.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-a62f2d68.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-a62f2d68.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -109,8 +109,8 @@ Board Games / Strategy Games
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-a62f2d68.zappy5.app/sitemap.xml
-- Robots: https://-a62f2d68.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-a62f2d68.zappy5.app/llms-full.txt
-- Products (JSON): https://-a62f2d68.zappy5.app/products.json
-- Products (Google Merchant RSS): https://-a62f2d68.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
