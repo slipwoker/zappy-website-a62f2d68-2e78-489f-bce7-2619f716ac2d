@@ -1,0 +1,116 @@
+# שחור ולבן — Generative Engine Optimization Map
+
+> A website dedicated to the ancient strategy board game Go (围棋/바둑). The site revolves around one of the world's oldest and most complex board games, known for its deep strategic depth, minimalist aesthetic of black and white stones on a grid, and rich cultural heritage rooted in East Asian tradition.
+
+---
+
+## Pages
+
+### בית
+https://-a62f2d68.zappy5.app
+התמכר לעולם המופלא של גו, משחק הלוח העתיק שמציע אינסוף אפשרויות אסטרטגיות. הצטרף אלינו למסע בין שחור ללבן, גלה טיפים מנצחים והפוך לאמן אסטרטגיה עוד היום.
+
+### ללמוד
+https://-a62f2d68.zappy5.app/learn
+מוכן לקחת את המשחק לשלב הבא? למד אסטרטגיות גו מעמיקות, תרגל טכניקות של אלופים ופתח מיומנויות שיהפכו כל מהלך שלך לניצחון. התחל ללמוד עכשיו!
+
+### מורשת
+https://-a62f2d68.zappy5.app/heritage
+צלול לתוך המורשת המרתקת של גו, ממזרח אסיה העתיקה ועד ימינו. גלה סיפורים, פילוסופיה ואמנות שמאחורי האבנים השחורות והלבנות. חקור את הסיפור המלא עכשיו.
+
+### צור קשר
+https://-a62f2d68.zappy5.app/contact
+יש לך שאלה על גו או רוצה להצטרף למפגשי משחק? אנחנו כאן בשבילך! מלא את הפרטים ונחזור אליך במהירות עם כל מה שצריך כדי להתחיל לשחק. צור קשר עכשיו!
+
+### Cart
+https://-a62f2d68.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://-a62f2d68.zappy5.app/checkout
+תשלום
+
+### Login
+https://-a62f2d68.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://-a62f2d68.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://-a62f2d68.zappy5.app/order-success
+תודה שנרשמת לקורס
+
+### תודה על פנייתך | שחור ולבן
+https://-a62f2d68.zappy5.app/thank-you
+שחור ולבן - תודה על פנייתך | שחור ולבן
+
+### Courses
+https://-a62f2d68.zappy5.app/courses
+Browse all available courses.
+
+### Course Category
+https://-a62f2d68.zappy5.app/category/:slug
+Browse courses in this category.
+
+### Course Detail
+https://-a62f2d68.zappy5.app/courses/:slug
+Course details and curriculum.
+
+### Lesson
+https://-a62f2d68.zappy5.app/lesson/:lessonId
+Lesson player.
+
+### My Learning
+https://-a62f2d68.zappy5.app/my-learning
+Your enrolled courses and progress.
+
+### Certificate
+https://-a62f2d68.zappy5.app/certificate/:code
+Verify a course completion certificate.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-a62f2d68.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-a62f2d68.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-a62f2d68.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About שחור ולבן
+A website dedicated to the ancient strategy board game Go (围棋/바둑). The site revolves around one of the world's oldest and most complex board games, known for its deep strategic depth, minimalist aesthetic of black and white stones on a grid, and rich cultural heritage rooted in East Asian tradition.
+
+## Target Audience
+- חובבי משחקי אסטרטגיה
+- חובבי תרבות אסייתית
+- שחקני שחמט
+
+## Industry
+Board Games / Strategy Games
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-a62f2d68.zappy5.app/sitemap.xml
+- Robots: https://-a62f2d68.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-a62f2d68.zappy5.app/llms-full.txt
+- Products (JSON): https://-a62f2d68.zappy5.app/products.json
+- Products (Google Merchant RSS): https://-a62f2d68.zappy5.app/product-feed.xml
